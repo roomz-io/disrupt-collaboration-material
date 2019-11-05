@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B8321918-3324-4604-BF90-AAB580044CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "src\Api\Api.csproj", "{5224C654-E7C6-42B6-AF1E-FCA21B69BE44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions items", "Solutions items", "{49244BA8-D812-4290-9360-F4E19982E52A}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		ngrok.sh = ngrok.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5224C654-E7C6-42B6-AF1E-FCA21B69BE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5224C654-E7C6-42B6-AF1E-FCA21B69BE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5224C654-E7C6-42B6-AF1E-FCA21B69BE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5224C654-E7C6-42B6-AF1E-FCA21B69BE44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5224C654-E7C6-42B6-AF1E-FCA21B69BE44} = {B8321918-3324-4604-BF90-AAB580044CD4}
+	EndGlobalSection
+EndGlobal
