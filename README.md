@@ -28,6 +28,10 @@ Feeling overwhelmed by all the available technologies? Don't worry we brought Su
 * Davide Grandis (dgrandis@cisco.com)
 * Roland Bellwald (rbellwal@cisco.com)
 
+### Webex Bots ###
+
+* https://github.com/CiscoDevNet/botkit-webex-samples
+
 ## Prices, Award Categories and Jurors ##
 
 No hackathon without a competition. During the Disrupt Collaboration Hackathon you'll have the ability to win prizes in three different categories:
